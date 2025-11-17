@@ -20,7 +20,7 @@ Software developer with hands-on experience building backend systems, web applic
 ---
 
 ## Selected projects
-(Adding soon — uploading and rewriting existing class projects. More coming.)
+- (Adding soon — uploading and rewriting existing class projects. More coming.)
 ---
 
 ## Contact & links
